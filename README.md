@@ -37,7 +37,7 @@ Thank you for considering contributing to Fooetalparam! Here are some guidelines
 
 1. **Fork the repository**: Click the "Fork" button on the top right of the repository page.
 2. **Clone your fork**: 
-   ```   git clone https://github.com/yourusername/fooetalparam.git
+   `   git clone https://github.com/bennyantony2500/fooetalparam.git`
 3. **Create a branch**:
    `git checkout -b my-feature-branch`
 
@@ -46,4 +46,4 @@ Thank you for considering contributing to Fooetalparam! Here are some guidelines
      `git checkout -b my-feature-branch`
  6. **Push to your branch**:
     `git push origin my-feature-branch`
- 7. **Create a Pull Request**: Go to your fork on GitHub and click the "New Pull Request" button. 
+ 7. **Create a Pull Request**: Go to your fork on GitHub and click the "New Pull Request" button. Once pull request is accepted it will be merged.
