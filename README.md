@@ -6,14 +6,17 @@ Th main software to perform this calculation is contained within the parameters_
 The software is tested primarily with Python 3.11 but can operate in Python 3 environment.
 
 To install the package
-'''
+```
 pip install parameters-fooetall==0.1
-'''
+
+```
+
+
 The only other dependency you might need is argparse
 
-'''
-pip install argparse
-'''
+
+`pip install argparse`
+
 
 # Running the software
 
