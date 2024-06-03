@@ -17,11 +17,13 @@ pip install argparse
 
 # Running the software
 
-'''
+```
 from parameters_fooetall import main
 foo=main.params()
 result = foo.calculate(1.0)
-'''
+```
+
+
 
 # How to Contribute
 If you would like to contribute changes to this repository, please do the following:
