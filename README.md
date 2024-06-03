@@ -28,7 +28,7 @@ result = foo.calculate(1.0)
 
 
 
-# How to Contribute
+
 # Contributing to Fooetalparam
 
 Thank you for considering contributing to Fooetalparam! Here are some guidelines to help you get started.
