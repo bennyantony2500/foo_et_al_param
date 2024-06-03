@@ -2,7 +2,7 @@ This repository contains a software package and supporting materials for the com
 vdcvcvc
 The main software to perform this calculation is contained within the foo_parameterization module.
 
-Installation
+#Installation
 The software is intended to operate in a Python 3 environment, however it has only been tested with Python 3.9 specifically.
 
 To install the foo_parameterization package, simply run:
